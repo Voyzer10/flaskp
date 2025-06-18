@@ -51,7 +51,7 @@ flaskp/
 git clone https://github.com/Toto3107/flaskp.git
 cd flaskp
 
-Build and Run with Docker Compose
+##Build and Run with Docker Compose
 docker-compose up --build
 
 Frontend: http://localhost:3000
